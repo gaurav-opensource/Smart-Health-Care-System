@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment files
+.env
+.env.* 
+
+# OS-related files
+.DS_Store
+Thumbs.db
+
+# Debug
+.vscode/
+.idea/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Build files
+dist/
+build/
+
+# Optional npm cache directory
+.npm/
+
+# Local env files
+*.local
+
+# Next.js build output
+.next/
+
+# TypeScript
+*.tsbuildinfo
